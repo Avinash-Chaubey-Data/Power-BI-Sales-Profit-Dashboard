@@ -40,5 +40,5 @@ Excel/CSV (data sources)
 
 <img width="1934" height="1064" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/93140671-cab6-400d-85b7-443852ee6bcb" />
 
-<img width="1965" height="1071" alt="image" src="https://github.com/user-attachments/assets/89f15eb0-9b70-4cfd-9c4a-07a7712303d0" />
+<img width="1923" height="1073" alt="image" src="https://github.com/user-attachments/assets/154f7523-9748-41de-86cb-893ff20e1efc" />
 
